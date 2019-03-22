@@ -1,0 +1,185 @@
+CRIMINAL CODES LEGEND
+
+Code			Category
+18/95			acting as an unregistered foreign agent
+18/32			air safety violations
+18/37			air safety violations
+49/4604			air safety violations 
+49/46306		air safety violations 
+49/46504		air safety violations 
+49/46505		air safety violations 
+49/46506		air safety violations 
+49/46502		aircraft piracy
+18/43			Animal Enterprise Protection Act, depending on date
+18/43 			Animal Enterprise Terrorism Act, depending on date
+18/2778			arms control violations
+18/844			arson, attempted arson, or related charges, depending on circumstances 
+18/924			arson, attempted arson, or related charges, depending on circumstances
+18/111			assault
+18/175			acquisition or attempted acquisition of a biological toxin
+18/2332b		attempting to commit an act of terrorism transcending national boundaries 
+18/2113 		bank robbery
+18/152			bankruptcy fraud
+18/157			bankruptcy fraud
+18/2332f		bombing, attempted bombing, or conspiracy to bomb a place of public use 18/201 bribery
+18/215			bribery
+18/2119			carjacking
+18/229			chemical weapons
+18/2252 		child pornography
+18/241 			conspiracy against civil rights
+18/372 			conspiracy to impede or injure officer
+18/956			conspiracy to murder, kidnap, or maim overseas
+22/287			conspiracy to violate the United Nations Participation Act 
+18/371			criminal conspiracy
+18/373			criminal conspiracy
+18/402			criminal contempt
+18/247 			damage to religious property
+50 CFR 27.61	destruction or removal of property
+18/1361 		destruction of government property
+18/1366			destruction of an energy facility
+18/117			domestic assault
+21/841			drug violations
+21/844			drug violations
+21/846			drug violations
+21/853			drug violations
+21/952			drug violations
+21/956			drug violations
+21/960			drug violations
+21/963			drug violations
+18/793			espionage
+22/2778			exportation of uranium
+18/3146 		failure to appear
+18/1038 		false information and hoaxes
+18/1341			financial violations
+18/1343			financial violations
+18/1344			financial violations
+18/1347			financial violations
+18/1349			financial violations
+18/1957			financial violations
+18/1960			financial violations 
+18/2332d		financial violations 
+31 CFR 594 		financial violations 
+31/5313			financial violations
+31/5322			financial violations
+31/5324			financial violations
+31/5332			financial violations
+18/921			firearms violations
+18/922			firearms violations
+18/924			firearms violations, depending on circumstances
+18/930 			firearms violations
+18/931			firearms violations
+26/5822			firearms violations
+26/5841			firearms violations 
+26/5845 		firearms violations
+26/5861			firearms violations 
+26/5871			firearms violations
+18/2339c		funding terrorists
+EO 13224		funding terrorists
+EO 13244		funding terrorists
+50/1705			funding terrorists or material support, depending on circumstances
+18/1030			hacking
+18/249 			hate crimes
+18/1203			hostage taking
+18/1028 		identity theft
+18/1014			immigration violations
+18/1015			immigration violations
+18/1028			immigration violations
+18/1029			immigration violations
+18/112			immigration violations
+18/1425			immigration violations
+18/1542			immigration violations
+18/1543			immigration violations
+18/1544			immigration violations
+18/1546			immigration violations
+18/911			immigration violations
+8/1253			immigration violations
+8/1305			immigration violations
+8/1306			immigration violations
+8/1324			immigration violations
+8/1325			immigration violations
+8/1326			immigration violations
+18/229			importation, manufacture, distribution, or storage of explosive material 
+18/842			importation, manufacture, distribution, or storage of explosive material 
+18/842p			distribution of information about explosives
+18/844			importation, manufacture, distribution, or storage of explosive material, depending on circumstances
+18/1363			injury to a dwelling and placing lives in jeopardy
+18/245			interference with a federally protected activity
+18/1201 		kidnapping
+18/1716			mailing of explosives
+18/1001			making false statements 
+18/2261			making threats
+18/875			making threats
+18/876			making threats
+18/879			making threats
+42/3631			making threats
+47/223			making threats
+18/1751d		making threats against the president 
+18/871			making threats against the president 
+18/2339a		material support
+18/2339b		material support
+18/4			misprision of felony
+18/1656			money laundering
+18/1956			money laundering
+18/1111			murder, attempted murder, or related offenses 
+18/1113			murder, attempted murder, or related offenses 
+18/1114			murder, attempted murder, or related offenses 
+18/1115			murder, attempted murder, or related offenses 
+18/1116			murder, attempted murder, or related offenses
+18/1117	 		murder, attempted murder, or related offenses
+18/1751			murder, attempted murder, or related offenses 
+21/960a			narcoterrorism
+18/1462			obscenity
+18/1503			obstruction of justice
+18/1505			obstruction of justice
+18/1509			obstruction of justice
+18/1512			obstruction of justice
+18/1519			obstruction of justice
+18/1621			obstruction of justice
+18/1622			obstruction of justice
+18/1623			obstruction of justice
+18/401			obstruction of justice
+18/3238			piracy or other crime outside the United States, depending on circumstances 
+18/960			plotting violence against a friendly nation
+18/2332g		possession, use, or threatened use of missile systems designed to destroy aircraft 
+18/1951			racketeering
+18/1952			racketeering
+18/1957			racketeering
+18/1962			racketeering
+18/2339d		receiving terrorist training 
+18/2101 		riots
+18/2155			sabotage
+18/471			sale or receipt of stolen or counterfeit goods
+18/2314			sale or receipt of stolen or counterfeit goods 
+18/2315			sale or receipt of stolen or counterfeit goods 
+18/2320			sale or receipt of stolen or counterfeit goods
+18/473			sale or receipt of stolen or counterfeit goods 
+18/513			sale or receipt of stolen or counterfeit goods 
+18/659			sale or receipt of stolen or counterfeit goods 
+18/2384			seditious conspiracy
+18/1855 		setting unauthorized fire
+18/373 			solicitation to commit a crime of violence
+18/542			smuggling
+18/545			smuggling
+18/554			smuggling
+50/1701			smuggling or financial crimes, depending on circumstances 
+50/1702			smuggling or financial crimes, depending on circumstances 
+50/1703			smuggling or financial crimes, depending on circumstances
+50/1704			smuggling or financial crimes, depending on circumstances 
+50/1706			smuggling or financial crimes, depending on circumstances 
+18/1365 		tampering with consumer product
+50 CFR 27.65	tampering with vehicles and equipment
+26/7201			tax violations
+26/7202			tax violations
+26/7206			tax violations
+26/7212			tax violations
+18/1992			terrorist attacks against mass transportation systems 
+18/1993			terrorist attacks against mass transportation systems 
+18/641			theft of government property
+18/115			threatening or injuring federal official
+18/2342			trafficking in contraband cigarettes
+50 CFR 26.21	trespassing
+18/248 			violating the Freedom of Access to Clinic Entrances Act
+18/2332			use, threats, or attempts to use weapons of mass destruction
+18/2332			use, threats or attempts to use radiological dispersal devices
+18/1029			use of unauthorized access device
+
